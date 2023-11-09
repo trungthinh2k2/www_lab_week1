@@ -22,9 +22,8 @@
     </div>
     <div>
         <button type="submit" class="btn btn-success btn-sm">Đăng nhập</button>
-        <input type="hidden" name="action" value="logon">
+        <input type="hidden" name="action" value="login">
     </div>
-    <a href="Register.jsp">Đăng ký</a>
 
 </form>
 </div>
