@@ -1,5 +1,5 @@
 # www_lab_week1
-##Yêu cầu bài tập
+## Yêu cầu bài tập
   - Tạo một csdl có tên mydb với các bảng dữ liệu account (account_id, full_name, password, email,
 phone, status), bảng role (role_id, role_name, description, status). Một account thuộc về nhiều role,
 mỗi role có thể có nhiều account. Trong đó status là trường để chỉ trạng thái mẫu tin (1-active, 0-
@@ -25,3 +25,5 @@ o Ghi log mỗi lần account đăng nhập, đăng xuất.
 thì hiển thị trang dashboard cho phép quản lý các account khác (bao gồm các quyền thêm,
 xóa, sửa và cấp quyền). Còn không (không phải admin) thì hiển thị thông tin của người
 đăng nhập cùng các quyền mà người đó có.
+## Những yêu cầu đã làm được
+## Những hạn chế chưa làm được
