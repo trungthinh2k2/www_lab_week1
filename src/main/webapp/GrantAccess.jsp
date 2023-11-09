@@ -27,6 +27,7 @@
 
 %>
 <div class="container">
+    <h2 class="text-center">Cấp quyền</h2>
 <form method="post" action="ControlServlet">
     <input type="hidden" name="action" value="grant-access">
     <input type="hidden" name="accountIdGrant" value="<%=account.getAccountId()%>">
