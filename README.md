@@ -29,8 +29,30 @@ xóa, sửa và cấp quyền). Còn không (không phải admin) thì hiển th
   ### Sơ đồ CSDL
   ![image](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/d6356f28-1e72-4877-bc71-fa91b0bb73bb)
   ### Trang login
-  
+  ![login](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/83b6ceac-475c-4254-95bc-5dee8a6eaed2)
   ### Quyền Admin
-    #### Hiển thị list danh sách các user
+  Admin xem danh sách các user; thực hiện thêm, xóa, sửa, cấp quyền cho user
+  #### Hiển thị list danh sách các user
+  ![list](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/0dbdcf4a-e0df-4397-b317-1a179a7b0625)
+  #### Thêm 1 user
+  ![insert](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/88333975-59f4-43c1-a12c-5d3c04f62082)
+  #### Sửa thông tin user
+  ![update](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/74cf7d3a-20ec-41a8-ab5c-07a037c847f2)
+  #### Cấp quyền cho user
+  ![capquyen](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/03894683-fa44-4f27-9281-716e06677aa9)
+  #### Xóa user
+  - Hình ảnh trước khi thực hiện xóa
+    ![ListAfterInsert](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/e68f4833-d921-4da6-9a0e-a32c91d6c236)
+  - Hình ảnh sau khi thực hiện xóa
+    ![ListAfterDelete](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/3aa6951b-e1ff-4178-bfd5-deaf51168ac3)
   ### Quyền User
+  #### Hiện thị thông tin của user
+  ![infor](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/8eea8069-fe52-43d1-932a-34038585ab3b)
+  #### Xem được thời gian Login
+  ![AccessHistory](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/6473ab1e-cc4b-4de7-afb5-e0d94652d62b)
 ## Những hạn chế chưa làm được
+  ### Quyền User
+  - Chưa lưa được thời gian Log out
+  ![AccessHistory](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/2206382a-f1ef-447b-903b-b6bc28d414ee)
+
+
