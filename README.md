@@ -26,6 +26,10 @@ thì hiển thị trang dashboard cho phép quản lý các account khác (bao g
 xóa, sửa và cấp quyền). Còn không (không phải admin) thì hiển thị thông tin của người
 đăng nhập cùng các quyền mà người đó có.
 ## Những yêu cầu đã làm được
+  ### Sơ đồ CSDL
+  ![image](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/d6356f28-1e72-4877-bc71-fa91b0bb73bb)
+  ### Trang login
+  
   ### Quyền Admin
     #### Hiển thị list danh sách các user
   ### Quyền User
