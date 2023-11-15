@@ -26,4 +26,7 @@ thì hiển thị trang dashboard cho phép quản lý các account khác (bao g
 xóa, sửa và cấp quyền). Còn không (không phải admin) thì hiển thị thông tin của người
 đăng nhập cùng các quyền mà người đó có.
 ## Những yêu cầu đã làm được
+  ### Quyền Admin
+    #### Hiển thị list danh sách các user
+  ### Quyền User
 ## Những hạn chế chưa làm được
