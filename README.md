@@ -27,7 +27,7 @@ xóa, sửa và cấp quyền). Còn không (không phải admin) thì hiển th
 đăng nhập cùng các quyền mà người đó có.
 ## Những yêu cầu đã làm được
   ### Sơ đồ CSDL
-  ![image](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/d6356f28-1e72-4877-bc71-fa91b0bb73bb)
+  ![CSDL_AnhXa](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/1264156a-bbd5-4b90-9545-15a6da31d4e4)
   ### Trang login
   ![login](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/83b6ceac-475c-4254-95bc-5dee8a6eaed2)
   ### Quyền Admin
