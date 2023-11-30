@@ -52,7 +52,7 @@ xóa, sửa và cấp quyền). Còn không (không phải admin) thì hiển th
   ![AccessHistory](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/6473ab1e-cc4b-4de7-afb5-e0d94652d62b)
 ## II. Những hạn chế chưa làm được
   ### 1. Quyền User
-  - Chưa lưa được thời gian Log out
+  - Chưa lưu được thời gian Log out
   ![AccessHistory](https://github.com/trungthinh2k2/www_lab_week1/assets/89030667/2206382a-f1ef-447b-903b-b6bc28d414ee)
 
 ## III. Các công cụ sử dụng
